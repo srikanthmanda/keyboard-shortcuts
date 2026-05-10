@@ -124,8 +124,9 @@ Note: On YouTube, this shortcut opens a list of its keyboard shortcuts.
 - `Opt` `←` => Go to beginning of the word
 - `Opt` `→` => Go to end of the word
 
-Note: Adding `Shift` key to above shortcuts will **SELECT** the text instead of
-navigating.
+> [!TIP]
+> Adding `Shift` key to above shortcuts will **SELECT** the text as the cursor
+> moves, which you can then copy or cut.
 
 ## Fn Key
 
@@ -141,7 +142,9 @@ navigating.
 - `Fn` `A` => Toggle (show/hide) Dock
 - `Fn` `C` => Toggle Control Centre
 - `Fn` `E` => Toggle emoji & symbols panel (alternative: `Ctrl` `Cmd` `Space`)
+- `Fn` `F` => Put the open application in fullscreen mode
 - `Fn` `H` => Toggle Desktop
+- `Fn` `M` => Go to Menu bar (where you can use arrow keys to navigate)
 - `Fn` `Del` => Forward Delete (delete character after the cursor)
 
 ## Output
@@ -166,6 +169,7 @@ Quick Look plugins allow you to preview items in Finder. Here are two I use:
 
 - Preview folders: [Folder Quick Look](https://apps.apple.com/app/id6753110395)
 - Preview Markdown files: [QLMarkdown](https://github.com/sbarex/QLMarkdown)
+- Preview code files: [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 More plugins are listed in this repo: [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 
@@ -191,3 +195,10 @@ Here is a brief guide: [Amethyst: MacOS Tiling Window Manager](https://www.youtu
 - [MacOS Keyboard Shortcut Tier List](https://www.youtube.com/watch?v=LLUrxMWdVqU)
 - [Mac Keyboard Shortcuts](https://www.danrodney.com/mac/)
 - [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
+
+---
+
+**Navigation**
+
+- [↑ Go to top](#macos-keyboard-shortcuts)
+- [↩ Return to README](README.md)
